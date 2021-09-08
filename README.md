@@ -9,3 +9,4 @@ My commitment for Competitive Programming for 2021
 - Day 5 : [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 - Day 6 : [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [Slowest Key](https://leetcode.com/problems/slowest-key/)
 - Day 7 : [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- Day 8 : [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
