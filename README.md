@@ -10,3 +10,4 @@ My commitment for Competitive Programming for 2021
 - Day 6 : [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [Slowest Key](https://leetcode.com/problems/slowest-key/)
 - Day 7 : [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - Day 8 : [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
+- Day 9 : [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
