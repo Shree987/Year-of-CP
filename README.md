@@ -12,3 +12,4 @@ My commitment for Competitive Programming for 2021
 - Day 8 : [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
 - Day 9 : [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - Day 10 : [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)
+- Day 11 : [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
