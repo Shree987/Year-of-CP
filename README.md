@@ -14,3 +14,4 @@ My commitment for Competitive Programming for 2021
 - Day 10 : [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)
 - Day 11 : [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 - Day 12 : [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
+- Day 13 : [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
