@@ -18,3 +18,4 @@ My commitment for Competitive Programming for 2021
 - Day 14 : [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/)
 - Day 15 : [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 - Day 16 : [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- Day 17 : [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
