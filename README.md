@@ -19,3 +19,4 @@ My commitment for Competitive Programming for 2021
 - Day 15 : [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 - Day 16 : [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - Day 17 : [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+- Day 18 : [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)
