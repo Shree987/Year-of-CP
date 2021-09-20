@@ -21,3 +21,4 @@ My commitment for Competitive Programming for 2021
 - Day 17 : [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 - Day 18 : [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)
 - Day 19 : [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- Day 20 : [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)
