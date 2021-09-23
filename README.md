@@ -24,3 +24,4 @@ My commitment for Competitive Programming for 2021
 - Day 20 : [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)
 - Day 21 : [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - Day 22 : [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- Day 23 : [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [Brick Wall](https://leetcode.com/problems/brick-wall/)
