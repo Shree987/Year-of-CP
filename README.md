@@ -25,3 +25,4 @@ My commitment for Competitive Programming for 2021
 - Day 21 : [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - Day 22 : [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - Day 23 : [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [Brick Wall](https://leetcode.com/problems/brick-wall/)
+- Day 24 : [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
