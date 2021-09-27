@@ -28,3 +28,4 @@ My commitment for Competitive Programming for 2021
 - Day 24 : [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - Day 25 : [3Sum](https://leetcode.com/problems/3sum/) | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - Day 26 : [Count and Say](https://leetcode.com/problems/count-and-say/) | [Two Sum](https://leetcode.com/problems/two-sum/)
+- Day 27 : [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
