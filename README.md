@@ -29,3 +29,4 @@ My commitment for Competitive Programming for 2021
 - Day 25 : [3Sum](https://leetcode.com/problems/3sum/) | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - Day 26 : [Count and Say](https://leetcode.com/problems/count-and-say/) | [Two Sum](https://leetcode.com/problems/two-sum/)
 - Day 27 : [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
+- Day 28 : [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
