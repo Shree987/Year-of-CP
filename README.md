@@ -31,3 +31,4 @@ My commitment for Competitive Programming for 2021
 - Day 27 : [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
 - Day 28 : [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - Day 29 : [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)
+- Day 30 : [Count Primes](https://leetcode.com/problems/count-primes/) | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
