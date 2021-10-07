@@ -8,3 +8,4 @@ My commitment for Competitive Programming for 2021
 - Day 34 : [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - Day 35 : [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/)
 - Day 36 : [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
+- Day 37 : [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Word Search](https://leetcode.com/problems/word-search/)
