@@ -9,3 +9,4 @@ My commitment for Competitive Programming for 2021
 - Day 35 : [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/)
 - Day 36 : [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
 - Day 37 : [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Word Search](https://leetcode.com/problems/word-search/)
+- Day 38 : [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
