@@ -44,3 +44,4 @@ My commitment for Competitive Programming for 2021
 - Day 40 : [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - Day 41 : [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 - Day 42 : [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+- Day 43 : [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
