@@ -6,3 +6,4 @@ My commitment for Competitive Programming for 2021
 - Day 42 : [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 - Day 43 : [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - Day 44 : [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+- Day 45 : [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
