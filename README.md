@@ -50,3 +50,4 @@ My commitment for Competitive Programming for 2021
 - Day 46 : [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 - Day 47 : [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Same Tree](https://leetcode.com/problems/same-tree/)
 - Day 48 : [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+- Day 49 : [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
