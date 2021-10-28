@@ -59,3 +59,4 @@ My commitment for Competitive Programming for 2021
 - Day 55 : [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - Day 56 : [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 - Day 57 : [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
+- Day 58 : [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
