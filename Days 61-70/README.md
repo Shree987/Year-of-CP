@@ -6,3 +6,4 @@ My commitment for Competitive Programming for 2021
 - Day 62 : [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
 - Day 63 : [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 - Day 64 : [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+- Day 65 : [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Thousand Separator](https://leetcode.com/problems/thousand-separator/)
