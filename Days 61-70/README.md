@@ -7,3 +7,4 @@ My commitment for Competitive Programming for 2021
 - Day 63 : [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 - Day 64 : [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 - Day 65 : [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Thousand Separator](https://leetcode.com/problems/thousand-separator/)
+- Day 66 : [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)
