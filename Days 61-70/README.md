@@ -10,3 +10,4 @@ My commitment for Competitive Programming for 2021
 - Day 66 : [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)
 - Day 67 : [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Single Number](https://leetcode.com/problems/single-number/)
 - Day 68 : [Baseball Game](https://leetcode.com/problems/baseball-game/) | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+- Day 69 : [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
