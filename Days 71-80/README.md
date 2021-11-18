@@ -10,3 +10,4 @@ My commitment for Competitive Programming for 2021
 - Day 76 : [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/)
 - Day 77 : [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - Day 78 : [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- Day 79 : [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Missing Number](https://leetcode.com/problems/missing-number/)
