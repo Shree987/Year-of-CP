@@ -82,3 +82,4 @@ My commitment for Competitive Programming for 2021
 - Day 78 : [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - Day 79 : [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Missing Number](https://leetcode.com/problems/missing-number/)
 - Day 80 : [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
+- Day 81 : [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
