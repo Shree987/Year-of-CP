@@ -86,3 +86,4 @@ My commitment for Competitive Programming for 2021
 - Day 82 : [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
 - Day 83 : [Reverse String](https://leetcode.com/problems/reverse-string/) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - Day 84 : [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Watering Plants](https://leetcode.com/problems/watering-plants/)
+- Day 85 : [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/)
