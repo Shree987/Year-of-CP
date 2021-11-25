@@ -7,3 +7,4 @@ My commitment for Competitive Programming for 2021
 - Day 83 : [Reverse String](https://leetcode.com/problems/reverse-string/) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - Day 84 : [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Watering Plants](https://leetcode.com/problems/watering-plants/)
 - Day 85 : [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/)
+- Day 86 : [Happy Number](https://leetcode.com/problems/happy-number/) | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
