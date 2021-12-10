@@ -102,3 +102,4 @@ My commitment for Competitive Programming for 2021
 - Day 98 : [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 - Day 99 : [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Reformat The String](https://leetcode.com/problems/reformat-the-string/)
 - Day 100 : [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+- Day 101 : [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
