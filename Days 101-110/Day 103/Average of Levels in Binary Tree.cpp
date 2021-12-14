@@ -3,7 +3,7 @@ Author : Shreeraksha R Aithal
 Problem name : Average of Levels in Binary Tree
 Problem link : https://leetcode.com/problems/average-of-levels-in-binary-tree/
 Difficulty : Easy
-Tags : Binary Tree, Breadth-first Search, Depth-first Search, Tree, 
+Tags : Binary Tree, Breadth-first Search, Depth-first Search, Tree
 */
 
 /**
