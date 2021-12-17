@@ -9,3 +9,4 @@ My commitment for Competitive Programming for 2021
 - Day 105 : [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
 - Day 106 : [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - Day 107 : [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+- Day 108 : [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
