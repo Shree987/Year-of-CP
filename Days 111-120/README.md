@@ -8,3 +8,4 @@ My commitment for Competitive Programming for 2021
 - Day 114 : [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
 - Day 115 : [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - Day 116 : [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- Day 117 : [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
