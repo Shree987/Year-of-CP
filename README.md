@@ -121,3 +121,4 @@ My commitment for Competitive Programming for 2021
 - Day 117 : [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - Day 118 : [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Number Complement](https://leetcode.com/problems/number-complement/)
 - Day 119 : [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- Day 120 : [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
