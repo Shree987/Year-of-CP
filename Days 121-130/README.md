@@ -10,3 +10,4 @@ My commitment for Competitive Programming for 2021
 - Day 126 : [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
 - Day 127 : [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - Day 128 : [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/)
+- Day 129 : [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
