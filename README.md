@@ -132,3 +132,4 @@ My commitment for Competitive Programming for 2021
 - Day 128 : [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/)
 - Day 129 : [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
 - Day 130 : [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)
+- Day 131 : [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) | [Detect Capital](https://leetcode.com/problems/detect-capital/)
