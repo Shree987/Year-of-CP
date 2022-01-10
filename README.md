@@ -133,3 +133,4 @@ My commitment for Competitive Programming for 2021
 - Day 129 : [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
 - Day 130 : [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)
 - Day 131 : [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) | [Detect Capital](https://leetcode.com/problems/detect-capital/)
+- Day 132 : [Add Binary](https://leetcode.com/problems/add-binary/)| [To Lower Case](https://leetcode.com/problems/to-lower-case/)
