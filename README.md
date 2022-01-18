@@ -141,3 +141,4 @@ My commitment for Competitive Programming for 2021
 - Day 137 : [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
 - Day 138 : [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 - Day 139 : [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Word Pattern](https://leetcode.com/problems/word-pattern/)
+- Day 140 : [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)
