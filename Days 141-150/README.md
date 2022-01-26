@@ -9,3 +9,4 @@ My commitment for Competitive Programming for 2021
 - Day 145 : [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 - Day 146 : [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | [Valid Number](https://leetcode.com/problems/valid-number/)
 - Day 147 : [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)
+- Day 148 : [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
