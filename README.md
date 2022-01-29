@@ -152,3 +152,4 @@ My commitment for Competitive Programming for 2021
 - Day 148 : [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 - Day 149 : [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
 - Day 150 : [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Combination Sum](https://leetcode.com/problems/combination-sum)
+- Day 151 : [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
