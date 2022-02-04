@@ -9,3 +9,4 @@ My commitment for Competitive Programming for 2021
 - Day 154 : [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Make The String Great](https://leetcode.com/problems/make-the-string-great/)
 - Day 155 : [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 - Day 156 : [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+- Day 157 :[4Sum](https://leetcode.com/problems/4sum/) |  [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
