@@ -162,3 +162,4 @@ My commitment for Competitive Programming for 2021
 - Day 158 : [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 - Day 159 : [Add Digits](https://leetcode.com/problems/add-digits/) | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 - Day 160 : [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
+- Day 161 : [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)
