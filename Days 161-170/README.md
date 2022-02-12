@@ -6,3 +6,4 @@ My commitment for Competitive Programming for 2021
 - Day 162 : [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 - Day 163 : [Largest Number](https://leetcode.com/problems/largest-number/) | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 - Day 164 : [Perfect Number](https://leetcode.com/problems/perfect-number/) | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/)
+- Day 165 : [Nim Game](https://leetcode.com/problems/nim-game/) | [Word Ladder](https://leetcode.com/problems/word-ladder/)
