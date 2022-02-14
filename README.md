@@ -168,3 +168,4 @@ My commitment for Competitive Programming for 2021
 - Day 164 : [Perfect Number](https://leetcode.com/problems/perfect-number/) | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/)
 - Day 165 : [Nim Game](https://leetcode.com/problems/nim-game/) | [Word Ladder](https://leetcode.com/problems/word-ladder/)
 - Day 166 : [Subsets II](https://leetcode.com/problems/subsets-ii/) |  [Subsets](https://leetcode.com/problems/subsets/)
+- Day 167 : [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
