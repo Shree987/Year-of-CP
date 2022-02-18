@@ -3,7 +3,7 @@ Author : Shreeraksha R Aithal
 Problem name : Jump Game III
 Problem link : https://leetcode.com/problems/jump-game-iii/
 Difficulty : Medium
-Tags : Array, Breadth-fuirst Search, Depth-first Search
+Tags : Array, Breadth-first Search, Depth-first Search
 */
 
 class Solution {
