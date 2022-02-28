@@ -182,3 +182,4 @@ My commitment for Competitive Programming for 2021
 - Day 178 : [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Relative Ranks](https://leetcode.com/problems/relative-ranks/)
 - Day 179 : [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - Day 180 : [Add Strings](https://leetcode.com/problems/add-strings/) | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+- Day 181 : [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Simplify Path](https://leetcode.com/problems/simplify-path/)
