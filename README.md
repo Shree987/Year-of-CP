@@ -200,3 +200,4 @@ My commitment for Competitive Programming for 2021
 - Day 196 : [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - Day 197 : [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
 - Day 198 : [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
+- Day 199 : [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
