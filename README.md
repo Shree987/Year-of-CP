@@ -202,3 +202,4 @@ My commitment for Competitive Programming for 2021
 - Day 198 : [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 - Day 199 : [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
 - Day 200 : [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- Day 201 : [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
