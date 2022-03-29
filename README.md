@@ -211,3 +211,4 @@ My commitment for Competitive Programming for 2021
 - Day 207 : [Binary Search](https://leetcode.com/problems/binary-search/) | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
 - Day 208 : [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - Day 209 : [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- Day 210 : [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
