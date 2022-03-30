@@ -212,3 +212,4 @@ My commitment for Competitive Programming for 2021
 - Day 208 : [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - Day 209 : [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - Day 210 : [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- Day 211 : [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
