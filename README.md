@@ -215,3 +215,4 @@ My commitment for Competitive Programming for 2021
 - Day 211 : [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - Day 212 : [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)
 - Day 213 : [Expressive Words](https://leetcode.com/problems/expressive-words/) | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
+- Day 214 : [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
