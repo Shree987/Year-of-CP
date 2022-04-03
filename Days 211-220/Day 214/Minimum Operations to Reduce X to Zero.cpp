@@ -14,7 +14,7 @@ public:
             sum += nums[left];
             left++;
         }
-        if(sum == x)        return  answer = left;
+        if(sum == x)        answer = left;
         if(left > right){
             if(sum == x)       return nums.size();
             return -1;
