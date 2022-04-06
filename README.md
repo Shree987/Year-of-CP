@@ -218,3 +218,4 @@ My commitment for Competitive Programming for 2021
 - Day 214 : [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - Day 215 : [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
 - Day 216 : [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+- Day 217 : [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
